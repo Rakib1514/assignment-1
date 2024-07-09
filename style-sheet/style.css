@@ -74,3 +74,44 @@ header .banner-title {
     font-size: 20px;
     font-weight: 600;
 }
+
+/* About Web Devloper section */
+
+.about-web-dev {
+    /* border: 1px solid red; */
+    width: 1140px;
+    height: 1395px;
+    margin: 74px auto 0;
+    padding: 80px 97px;
+    border-radius: 16px;
+    background-color: rgba(13, 19, 33, 0.02);
+}
+
+.about-web-dev-header {
+    text-align: center;
+}
+
+.about-web-dev-title {
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+
+.about-web-dev-subtitle {
+    margin-bottom: 48px;
+}
+
+.web-dev-ans {
+    display: flex;
+    width: 946px;
+    height: 336px;
+    padding: 48px;
+    /* border: 1px solid red; */
+    margin-bottom: 32px;
+    border-radius: 16px;
+    background: linear-gradient(90.00deg, rgb(255, 255, 255), rgba(255, 255, 255, 0) 100%);
+}
+
+.about-web-dev .web-dev-ans-revarse {
+    background: linear-gradient(270.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+}
