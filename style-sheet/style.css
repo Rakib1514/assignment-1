@@ -78,7 +78,6 @@ header .banner-title {
 /* About Web Devloper section */
 
 .about-web-dev {
-    /* border: 1px solid red; */
     width: 1140px;
     height: 1395px;
     margin: 74px auto 0;
@@ -103,15 +102,43 @@ header .banner-title {
 
 .web-dev-ans {
     display: flex;
+    align-items: center;
     width: 946px;
     height: 336px;
     padding: 48px;
-    /* border: 1px solid red; */
     margin-bottom: 32px;
     border-radius: 16px;
     background: linear-gradient(90.00deg, rgb(255, 255, 255), rgba(255, 255, 255, 0) 100%);
 }
 
 .about-web-dev .web-dev-ans-revarse {
-    background: linear-gradient(270.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+    background: linear-gradient(270.00deg, rgb(255, 255, 255), rgba(255, 255, 255, 0) 100%);
 }
+
+.web-dev-img {
+    padding: 26px 16px;
+}
+
+.web-dev-ans-heading {
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 24px;
+    font-weight: 700;
+    width: 477px;
+    margin-bottom: 16px;
+}
+
+.web-dev-ans p {
+    margin-bottom: 32px;
+}
+
+.web-dev-ans button {
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+    padding: 12px 20px;
+    background-color: transparent;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+/* Inspiration section style */
+
