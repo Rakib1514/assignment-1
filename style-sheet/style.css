@@ -177,7 +177,7 @@ header .banner-title {
 .current-target-container {
     width: 1140px;
     height: 460px;
-    margin: 0 auto;
+    margin: 0 auto 111px;
     text-align: center;
 }
 
@@ -226,3 +226,43 @@ header .banner-title {
     font-weight: 700;
     color: rgb(13, 19, 33);
 }
+
+/* Next Target section style */
+
+.next-target-container {
+    width: 1140px;
+    height: 866px;
+    /* border: 1px solid red; */
+    margin: 0 auto;
+}
+
+.next-target-title {
+    text-align: center;
+    margin-bottom: 48px;
+}
+
+.aa {
+    width: 1140px;
+    height: 219px;
+    display: flex;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    margin-bottom: 24px ;
+}
+
+.bb {
+    width: 1060px;
+    height: 139px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    /* border: 1px solid red; */
+}
+
+.bb h4 {
+    font-size: 24px;
+    font-weight: 800;
+    margin: 24px 0 8px 0;
+}
+
