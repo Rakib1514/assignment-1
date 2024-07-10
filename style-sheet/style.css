@@ -80,6 +80,7 @@ header .banner-title {
     color: rgb(255, 255, 255);
     font-size: 20px;
     font-weight: 600;
+    cursor: pointer;
 }
 
 /* About Web Devloper section */
