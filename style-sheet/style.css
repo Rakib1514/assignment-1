@@ -140,6 +140,7 @@ header .banner-title {
 }
 
 .web-dev-ans button {
+    font-family: "Azeret Mono", monospace;
     border: 1px solid rgb(13, 19, 33);
     opacity: 0.7;
     padding: 12px 20px;
