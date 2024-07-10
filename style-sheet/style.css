@@ -221,7 +221,7 @@ header .banner-title {
     margin-bottom: 24px;
 }
 
-.current-target-topic p a {
+.current-target-topic a {
     font-size: 16px;
     font-weight: 700;
     color: rgb(13, 19, 33);
@@ -241,7 +241,7 @@ header .banner-title {
     margin-bottom: 48px;
 }
 
-.aa {
+.topic-container {
     width: 1140px;
     height: 219px;
     display: flex;
@@ -250,7 +250,7 @@ header .banner-title {
     margin-bottom: 24px ;
 }
 
-.bb {
+.topic-subcontainer {
     width: 1060px;
     height: 139px;
     margin: auto;
@@ -260,9 +260,22 @@ header .banner-title {
     /* border: 1px solid red; */
 }
 
-.bb h4 {
+.topic-subcontainer h4 {
     font-size: 24px;
     font-weight: 800;
     margin: 24px 0 8px 0;
 }
+
+.topic-subcontainer p {
+    margin-bottom: 24px;
+}
+
+.topic-subcontainer a {
+    font-size: 16px;
+    font-weight: bold;
+    color: #0D1321;
+}
+
+
+
 
