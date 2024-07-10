@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
 
-/* font-family: "Azeret Mono", monospace; */
+/* Design on width: 1440px */
+/* window.innerWidth = 1440px */
 
 * {
     margin: 0;
@@ -26,8 +27,6 @@
     font-weight: 800;
     margin-bottom: 24px;
 }
-
-
 
 /* header style */
 
@@ -158,7 +157,6 @@ header .banner-title {
     text-align: center;
 }
 
-
 .inspiration-media-container {
     width: 1140px;
     height: 620px;
@@ -276,7 +274,6 @@ header .banner-title {
     font-weight: bold;
     color: #0D1321;
 }
-
 
 .support {
     width: 1140px;
